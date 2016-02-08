@@ -6,6 +6,7 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.mount('routable-engines', { as: 'boom' });
 });
 
 export default Router;
