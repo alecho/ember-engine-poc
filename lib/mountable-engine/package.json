@@ -2,5 +2,8 @@
   "name": "mountable-engine",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "^1.0.2"
+  }
 }
