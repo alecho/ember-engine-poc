@@ -42,8 +42,8 @@
   },
   "ember-addon": {
     "paths": [
-      "lib/routable-engine",
-      "lib/routable-engines"
+      "lib/routable-engines",
+      "lib/mountable-engine"
     ]
   }
 }
